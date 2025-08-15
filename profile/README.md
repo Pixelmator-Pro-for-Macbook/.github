@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Pixelmator Pro Logo](https://www.dpreview.com/files/p/articles/3667956131/Pixelmator_Pro_Icon.jpeg)
+![Pixelmator Pro Logo](https://www.mactech.com/wp-content/uploads/2017/09/Pixelmator-Pro-icon.jpg)
 
 </div>  
 
